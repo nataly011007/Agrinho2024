@@ -7,7 +7,8 @@ body{
 header{ 
     display: flex;
     background-color: blueviolet;
-
+    justify-content: space-between;
+    padding: 20px;
 }
 
 
