@@ -11,7 +11,14 @@ header{
     padding: 20px;
 }
 
+.cabecalho_menuitem{
 
+    display: inline;
+    text-transform: uppercase;
+    margin-left: 20px;
+
+
+}
 
 
 
