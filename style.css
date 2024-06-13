@@ -16,9 +16,12 @@ header{
     display: inline;
     text-transform: uppercase;
     margin-left: 20px;
-
-
 }
 
+.cabecalho_menuitem{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
 
 
