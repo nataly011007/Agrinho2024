@@ -8,7 +8,7 @@ body{
     display: flex;/*muda a disposição do elementos para horizontal*/
     align-items: center;
     justify-content: space-between;
-    background-color:rgb(253, 189, 189);
+    background-color:rgb(255, 181, 181);
 }
 
 .cabecalho-imagem{
