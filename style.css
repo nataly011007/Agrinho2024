@@ -50,8 +50,8 @@ body{
 }
 
 .cabecalho-imagem{
-width: 200px;
-height: auto;
+width: auto;
+height: 200px;
 border-radius: 50%;
 padding: 20px;
 
