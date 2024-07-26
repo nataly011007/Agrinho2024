@@ -115,7 +115,6 @@ align-items: center;
 }
     .sobre_texto-conteudo{
 padding: 10px;
-gap: 100px;
-
+align-items: center;
 
     }
