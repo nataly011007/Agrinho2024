@@ -101,8 +101,8 @@ align-items: center;
     padding: 20px;
 }
 .elementos__div{
-    width: 700px;
-    height:650px;
+    width: 300px;
+    height:auto;
     text-align: center;
 }
 .elementos__imagem{
